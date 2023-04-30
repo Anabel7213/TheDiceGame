@@ -41,3 +41,7 @@ button:hover {
     background-color:rgb(14, 71, 11);
     cursor: pointer;
 }
+@media(max-width:576px) {
+    h1 {
+        font-size:6rem;
+    }
